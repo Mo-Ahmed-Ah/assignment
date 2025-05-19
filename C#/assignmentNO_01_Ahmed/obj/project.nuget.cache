@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkzeES+53oA=",
+  "success": true,
+  "projectFilePath": "F:\\Videos\\C#\\Assignment\\C#\\assignmentNO_01_Ahmed\\assignmentNO_01_Ahmed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmoh\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.16\\microsoft.dotnet.ilcompiler.8.0.16.nupkg.sha512",
+    "C:\\Users\\ahmoh\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
+    "C:\\Users\\ahmoh\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.16\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
