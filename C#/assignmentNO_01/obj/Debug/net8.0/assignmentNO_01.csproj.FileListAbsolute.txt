@@ -1,0 +1,15 @@
+F:\Videos\C#\Assignment\C#\assignmentNO_01\bin\Debug\net8.0\assignmentNO_01.exe
+F:\Videos\C#\Assignment\C#\assignmentNO_01\bin\Debug\net8.0\assignmentNO_01.deps.json
+F:\Videos\C#\Assignment\C#\assignmentNO_01\bin\Debug\net8.0\assignmentNO_01.runtimeconfig.json
+F:\Videos\C#\Assignment\C#\assignmentNO_01\bin\Debug\net8.0\assignmentNO_01.dll
+F:\Videos\C#\Assignment\C#\assignmentNO_01\bin\Debug\net8.0\assignmentNO_01.pdb
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.AssemblyInfoInputs.cache
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.AssemblyInfo.cs
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.csproj.CoreCompileInputs.cache
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.sourcelink.json
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.dll
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\refint\assignmentNO_01.dll
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.pdb
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\assignmentNO_01.genruntimeconfig.cache
+F:\Videos\C#\Assignment\C#\assignmentNO_01\obj\Debug\net8.0\ref\assignmentNO_01.dll
